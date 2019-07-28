@@ -1,0 +1,275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Starter Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-01 17:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Fahim <info@murshidalam.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:89 inc/template-tags.php:115
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:117
+#, php-format
+msgid "<i class=\"fa fa-tags\"></i> %1$s"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: template-parts/content-custom.php:20
+msgid "Custom:"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Display some love by showing credit to me."
+msgstr ""
+
+#: inc/template-tags.php:123 template-parts/content-custom.php:27
+#: template-parts/content-page.php:28
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Facebook"
+msgstr ""
+
+#. Author of the theme
+msgid "Fahim Murshed"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Github"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Header Background Color"
+msgstr ""
+
+#: functions.php:49
+msgid "Header Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage Full Width"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/fahimmurshed"
+msgstr ""
+
+#: footer.php:21 inc/customizer.php:116
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.murshidalam.com/themes/starterblog/"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Instagram"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:222
+msgid "light grayish magenta"
+msgstr ""
+
+#: header.php:61
+msgid "Menu"
+msgstr ""
+
+#: comments.php:58 comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#. Name of the template
+msgid "Page Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Page No Sidebar"
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: footer.php:21 inc/customizer.php:116
+msgid "Proudly powered by WordPress"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:37
+#, php-format
+msgid "Read more %1$s %2$s"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Social"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the theme
+msgid "Starter Blog"
+msgstr ""
+
+#: footer.php:24
+#, php-format
+msgid "StarterBlog by %1$s"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"StarterBlog is a powerful and versatile WordPress Gutenberg ready theme for "
+"the Bloggers. A clean and minimalist theme that allows your reader to focus "
+"on your content, build especially for daily or hobby bloggers who love to "
+"share their stuff, whether it’s about lifestyle, fashion, travel, "
+"entertainment, beauty or just a simple personal blog. StarterBlog theme best "
+"for single niche or multi niche blogging. Qubely is a full-fledged Gutenberg "
+"toolkit with plenty of predefined sections and modern layout packs to create "
+"beautiful pages and posts on the Gutenberg editor. You can also use WP Page "
+"Builder (Themeum) to create stunning website. WP Page Builder is the "
+"ultimate tool to develop your website. Extremely fast. Easy to use. "
+"Absolutely no coding required. Check out Starter Blog Demo- http://dev-"
+"starterblog.pantheonsite.io/"
+msgstr ""
+
+#: functions.php:217
+msgid "strong magenta"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:232
+msgid "very dark gray"
+msgstr ""
+
+#: functions.php:227
+msgid "very light gray"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Youtube"
+msgstr ""
